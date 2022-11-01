@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Book Search React App
 
-This Book Search project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Book Search project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses the Gutendex API.
 
 ## Available Scripts
 
